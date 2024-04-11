@@ -1,9 +1,0 @@
-app.java
-
-<<<<<<< HEAD
-def test_it_checks_logout():
-	pass
-=======
-def test_it_check_login():
->>>>>>> TASK-123_Create_tests
-	pass
